@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[42 status](https://badge42.vercel.app/api/v2/cl2ruwdi9012309l2xm1ol4es/stats?cursusId=21&coalitionId=124)
+
+
 <!--
 **sbaz/sbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
